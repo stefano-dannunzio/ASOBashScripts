@@ -1,7 +1,8 @@
-# ASOBashScripts
-Escrito por Stefano D'Annunzio.
-EMAIL: stefanodannunzio10@gmail.com
+# ASOBashScripts  
+  
+*Para el Trabajo Final de la asignatura: Arquitectura y Sistemas Operativos. (DICIEMBRE 2022)*  
+**A cargo de Marco Ustarroz, en la Universidad Tecnológica Nacional - Facultad Regional Bahía Blanca**  
 
-Para el Trabajo Final de la asignatura: Arquitectura y Sistemas Operativos
-A cargo de Marco Ustarroz
-En la Universidad Tecnológica Nacional - Facultad Regional Bahía Blanca
+---
+Escrito por Stefano D'Annunzio.  
+Contacto: stefanodannunzio10@gmail.com
